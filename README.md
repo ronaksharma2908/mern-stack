@@ -1,2 +1,3 @@
 # mern-stack
-practice of menr-stack by creating projects for practice
+practice of mern-stack by creating projects for practice
+marngodb, express, react.js, node.js
