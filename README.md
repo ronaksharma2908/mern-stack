@@ -32,5 +32,4 @@ The purpose of this repository is to:
 - VS Code
 - Postman
 - npm
-
-## 📂 Repository Structure
+-----
