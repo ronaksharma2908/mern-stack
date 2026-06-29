@@ -33,3 +33,60 @@ The purpose of this repository is to:
 - Postman
 - npm
 -----
+## 📂 Repository Structure
+
+
+MERN-Practice/
+│
+├── Project-1/
+├── Project-2/
+├── Project-3/
+├── Practice/
+├── Backend/
+├── Frontend/
+└── README.md
+
+
+> Folder names may change as more projects are added.
+
+## 🎯 What You'll Find
+
+- CRUD Applications
+- REST APIs
+- Authentication & Authorization
+- MongoDB Operations
+- React Components & Hooks
+- Express Routing
+- API Integration
+- State Management
+- Full-Stack MERN Projects
+- Learning Experiments
+
+## 📈 Learning Goals
+
+- Build scalable MERN applications.
+- Understand frontend-backend integration.
+- Write clean and maintainable code.
+- Follow Git and GitHub best practices.
+- Explore modern JavaScript development.
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+
+Navigate into the project:
+
+cd your-repository-name
+
+Install dependencies (inside each project if required):
+
+npm install
+
+Run the project:
+
+npm start
+
+or
