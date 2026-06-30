@@ -89,4 +89,8 @@ Run the project:
 
 npm start
 
-or
+-------
+
+**📚 Note
+
+This repository is primarily for learning, practice, and experimentation. Projects will continue to evolve as I explore new MERN Stack concepts and best practices.
