@@ -94,3 +94,8 @@ npm start
 **📚 Note
 
 This repository is primarily for learning, practice, and experimentation. Projects will continue to evolve as I explore new MERN Stack concepts and best practices.
+
+
+🤝 Contributions
+
+Suggestions, feedback, and improvements are always welcome. Feel free to fork the repository and open a pull request
