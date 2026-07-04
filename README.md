@@ -98,4 +98,4 @@ This repository is primarily for learning, practice, and experimentation. Projec
 
 🤝 Contributions
 
-Suggestions, Feedback and improvement are always welcome. This is open to fork . 
+Suggestions, Feedback and improvement are always welcome. This repository is available to fork and open PRs.
