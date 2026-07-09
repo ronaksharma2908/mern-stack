@@ -99,4 +99,4 @@ This repository is primarily for learning, practice, and experimentation. Projec
 🤝 Contributions
 
 Suggestions, Feedback and improvement are always welcome. This repository is available to fork and open PRs.
-learning and exploring the things more and more ...figuring outthe things..
+learning and exploring the things more and more ...figuring out the  things..
