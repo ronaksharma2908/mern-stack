@@ -100,4 +100,4 @@ still figuring out the things
 
 Suggestions, Feedback and improvement are always welcome. This repository is available to fork and open PRs.
 learning and exploring the things more and more ...figuring out the  things..
-just checking and struggling with the things..please assist me GOD!!...
+preparing for the internships..
